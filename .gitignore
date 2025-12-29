@@ -1,0 +1,13 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node
+node_modules/
+
+# OneDrive temp files
+~$*
+
+# VS Code
+.vscode/
